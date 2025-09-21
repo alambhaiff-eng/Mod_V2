@@ -1,5 +1,12 @@
 [
     {
+        "device_id": "cefd21fa136fa9a5",
+        "username": "VIPUSER1",
+        "password": "1",
+        "expirydate": "24-09-2025",
+        "Allowoffline": true
+    },
+    {
         "device_id": "device123",
         "username": "user1",
         "password": "pass123",
